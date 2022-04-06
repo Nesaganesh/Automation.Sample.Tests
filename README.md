@@ -14,3 +14,4 @@ npm install
 npx playwright test --headed --grep @UITests
 
 
+![Screenshot 2022-04-06 at 14 45 45](https://user-images.githubusercontent.com/6851548/161993476-0b45a14a-d704-490f-8670-5e98ddb6be87.png)
